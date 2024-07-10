@@ -22,12 +22,7 @@ Log transformations and correlation matrices help visualize data skewness and re
 Usage
 To replicate or extend this analysis:
 
-Clone the Repository:
-git clone https://github.com/yourusername/video-games-sales-analysis.git
 cd video-games-sales-analysis
-Install Dependencies:
-Ensure you have Python 3.x installed along with the necessary libraries:
-pip install -r requirements.txt
 Run the Analysis:
 
 Navigate to the directory containing the Jupyter Notebook or Python scripts.
